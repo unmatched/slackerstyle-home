@@ -15,7 +15,7 @@ export default function Home() {
         <p className="description">
           Slackerstyle Studios creates blockchain experiments. Please view our list of current and past projects. 
         </p>
-        <p>Slacker Kongz</p>
+        <p>Announcing soon!</p>
       </main>
 
       <Footer />
