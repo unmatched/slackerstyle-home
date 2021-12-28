@@ -6,14 +6,14 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>Slackerstyle Studios | 2022</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Slackerstyle Studios" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Slackerstyle Studios creates blockchain experiments. Please view our list of current and past projects. 
         </p>
       </main>
 
